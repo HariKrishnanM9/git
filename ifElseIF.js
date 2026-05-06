@@ -6,7 +6,7 @@ if (mark => 85) {
         
     }
 
-    let age = 41;
+    let age = 14;
     if (age >= 18){
         console.log("you are eligible for vote");
     } else{
@@ -14,7 +14,7 @@ if (mark => 85) {
     }
 
 
-    let marks = 40;
+    let marks = 39;
     if (marks >=90 ){
         console.log(" A Grade");
     }else if (marks >=80){
