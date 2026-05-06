@@ -23,3 +23,10 @@ function code (callback){
         code2();
     });
   });
+
+function hello ()
+{
+    console.log(hi);
+    
+}
+hello 
