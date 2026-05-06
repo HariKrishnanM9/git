@@ -1,7 +1,5 @@
 
-task 1 has been completed
-task 2 has been completed 
-
+day 1 is need to update 
 
 let apl = "fruit";
 let veg = "carrot";
